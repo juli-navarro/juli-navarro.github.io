@@ -683,7 +683,9 @@ a{
 .hijo{
     margin-bottom: 10px;
 }
-   
+  .logo{
+	  width:350px;
+  } 
     
 }
 

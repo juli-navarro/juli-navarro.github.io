@@ -736,9 +736,11 @@ a{
     }
     
     #manej{
-        left: 50px;
-	    margin: 5px;
+     display:none;
     }
+	footer{
+		width:858px;
+	}
  
 
    
@@ -788,9 +790,11 @@ a{
     }
     
     #manej{
-        left: 50px;
-	    margin: 5px;
+       display:none;
     }
+ footer{
+		width:858px;
+	}
  
 
    

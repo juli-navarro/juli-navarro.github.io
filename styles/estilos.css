@@ -398,9 +398,9 @@ height: 600px;
 
 
 .container{
-    width: 90%;
-    padding: 20px;
-    margin: auto;	 
+    width: 100%;
+    
+  	 
     display: flex;
     flex-direction: row;
     flex-wrap: wrap;

@@ -333,9 +333,7 @@ height: 600px;
 }
 
 .container5{
-    width:290px;
-   
-    margin: 50px;	 
+    width:300px;	 
     display: flex;
     flex-direction: row;
     flex-wrap: wrap;
@@ -523,9 +521,7 @@ text-shadow: -2px -2px 1px #000000, 2px 2px 1px #000, -2px 2px 1px #000, 2px -2p
 
 
 .box{
-    width: 350px;
-    margin: 20px;
-    
+    width: 350px;   
     transition: 1s;
 
 

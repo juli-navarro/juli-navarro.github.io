@@ -323,7 +323,7 @@ height: 600px;
 .container2{
     width: 300px;
     padding: 20px;
-    margin: 50px auto;	 
+    margin: auto;	 
     display: flex;
     flex-direction: row;
     flex-wrap: wrap;

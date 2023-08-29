@@ -523,7 +523,7 @@ text-shadow: -2px -2px 1px #000000, 2px 2px 1px #000, -2px 2px 1px #000, 2px -2p
 .box{
     width: 350px;   
     transition: 1s;
-
+	margin: auto;
 
 }
 
